@@ -1,0 +1,11 @@
+title: Linux bans University of Minnesota for sending buggy patches in name of research, link:  https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy-patches-in-the-name-of-research/, score: 1093 
+title: Beam VM Wisdoms (2019), link:  http://beam-wisdoms.clau.se/en/latest/, score: 140 
+title: Tracking the WhatsApp habits of 5000 random Smartphones, link:  https://jorislacance.fr/blog/2021/04/16/whatsapp-tracking-2, score: 111 
+title: Hunting down the stuck BGP routes, link:  https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window, score: 127 
+title: Belarusian regime’s thugs shut down Imaguru, the country’s key startup hub, link:  https://techcrunch.com/2021/04/20/belarusian-regimes-thugs-shut-down-imaguru-the-countrys-key-startup-hub/, score: 195 
+title: Prisma – A Complete ORM for Node.js and TypeScript, link:  https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb, score: 283 
+title: Daily Mail owner sues Google over search results, link:  https://www.bbc.co.uk/news/business-56828173, score: 103 
+title: India’s second wave, link:  https://www.ft.com/content/683914a3-134f-40b6-989b-21e0ba1dc403, score: 122 
+title: Netdata: Open-source real-time monitoring platform, link:  https://github.com/netdata/netdata, score: 185 
+title: Apple AirDrop shares more than files, link:  https://www.informatik.tu-darmstadt.de/fb20/ueber_uns_details_231616.en.jsp, score: 161 
+title: Ethereum: A Store of Value with Cash Flow [pdf], link:  https://ethereumcashflow.com/, score: 128 
